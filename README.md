@@ -18,7 +18,7 @@ This is a simple web-based calculator application built with HTML, CSS, and Java
 
 ## How to Use
 
-1.  Clone this repository or download the files.
+1.  Clone the repository or download the files.
 2.  Open `cal.html` in your web browser.
 3.  Click the number and operator buttons to perform calculations.
 
