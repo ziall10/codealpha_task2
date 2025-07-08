@@ -1,5 +1,5 @@
 # simple Web based
-calculator.
+#calculator.
 This is a simple web-based calculator application built with HTML, CSS, and JavaScript.
 
 ## Files
