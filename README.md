@@ -18,6 +18,7 @@ This is a simple web-based calculator application built with HTML, CSS, and Java
 ## How to Use
 
 1.  Clone the repository or download the files.
+    git clone https://github.com/ziall10/codealpha_task2.git
 2.  Open `cal.html` in your web browser.
 3.  Click the number and operator buttons to perform calculations.
 
