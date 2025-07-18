@@ -1,3 +1,4 @@
+#codealpha_task2
 # simple Web based calculator
 This is a simple web-based calculator application built with HTML, CSS, and JavaScript.
 
